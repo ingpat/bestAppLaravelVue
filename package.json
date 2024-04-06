@@ -1,0 +1,36 @@
+{
+    "private": true,
+    "type": "module",
+    "scripts": {
+        "dev": "vite",
+        "build": "vite build"
+    },
+    "devDependencies": {
+        "@inertiajs/vue3": "^1.0.0",
+        "@tailwindcss/forms": "^0.5.3",
+        "@vitejs/plugin-vue": "^5.0.4",
+        "autoprefixer": "^10.4.12",
+        "axios": "^1.6.4",
+        "laravel-vite-plugin": "^1.0.0",
+        "postcss": "^8.4.31",
+        "tailwindcss": "^3.2.1",
+        "vite": "^5.0.0",
+        "vue": "^3.4.18"
+    },
+    "dependencies": {
+        "@fortawesome/fontawesome-free": "^6.5.1",
+        "@ocrv/vue-tailwind-pagination": "^0.0.4",
+        "admin-lte": "3.2",
+        "chart.js": "^4.4.1",
+        "datatables.net": "^1.13.8",
+        "datatables.net-buttons": "^2.4.2",
+        "datatables.net-responsive-dt": "^2.5.0",
+        "datatables.net-vue3": "^2.1.3",
+        "jszip": "^3.10.1",
+        "pdfmake": "^0.2.9",
+        "sweetalert2": "^11.10.5",
+        "vue-chartjs": "^5.3.0",
+        "vue-loader": "^17.3.1",
+        "vue-router": "^4.0.13"
+    }
+}
